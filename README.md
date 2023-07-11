@@ -1,2 +1,2 @@
-# portfolio
-My Portfolio from Complete Web Developer
+# NK. Design
+NK. Design from Complete Website
